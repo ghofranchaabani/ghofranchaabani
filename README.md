@@ -20,8 +20,15 @@
 ---
 
 ## 💼 Expériences professionnelles
-### 🔹 2024 : Équipier polyvalente – McDonald's  
+### 🔹 2024-2025 : Équipier polyvalente – McDonald's  
 - Développement de compétences en travail d’équipe et gestion du service client.  
+
+### 🔹 2025 : Community Manager – Supernova (3 mois, Meylan)  
+- Création de contenu visuel et gestion des réseaux sociaux.
+- Création de maquettes et prototypes interactifs.  
+- Conception UI/UX et architecture de navigation.
+- Conception 3D .
+- Montage vidéo
 
 ### 🔹 2023 : Designer d’application – Supernova (2 mois, Meylan)  
 - Création de maquettes et prototypes interactifs.  
