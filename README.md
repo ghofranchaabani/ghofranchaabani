@@ -15,7 +15,7 @@
 ### 🎨 **Design graphique**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="30" height="30"/> **Photoshop** (4 ans)  
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="30" height="30"/> **Illustrator** (3 ans)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Adobe_After_Effects_CC_icon.svg" alt="After Effects" width="30" height="30"/> **After Effects** (2 ans)  
+ **After Effects** (2 ans)  
 
 ### 🌐 **UI/UX Design**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="30" height="30"/> **Figma** (3 ans)  
@@ -23,7 +23,7 @@
 
 ### 🎮 **3D Design**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="30" height="30"/> **Blender** (2 ans)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/3DS_Max_Logo.png" alt="3DS MAX" width="30" height="30"/> **3DS MAX** (1 an)  
+**3DS MAX** (1 an)  
 
 ### 💻 **Développement web**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="30" height="30"/> **HTML** (2 ans)  
