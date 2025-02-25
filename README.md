@@ -13,21 +13,21 @@
 ## 🏆 Compétences  
 
 ### 🎨 **Design graphique**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/> **Photoshop** (4 ans)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/> **Illustrator** (3 ans)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Adobe_After_Effects_CC_icon.svg" alt="After Effects" width="40" height="40"/> **After Effects** (2 ans)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="30" height="30"/> **Photoshop** (4 ans)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="30" height="30"/> **Illustrator** (3 ans)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Adobe_After_Effects_CC_icon.svg" alt="After Effects" width="30" height="30"/> **After Effects** (2 ans)  
 
 ### 🌐 **UI/UX Design**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> **Figma** (3 ans)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40"/> **Adobe XD** (2 ans)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="30" height="30"/> **Figma** (3 ans)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="30" height="30"/> **Adobe XD** (2 ans)  
 
 ### 🎮 **3D Design**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="40" height="40"/> **Blender** (2 ans)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/3DS_Max_Logo.png" alt="3DS MAX" width="40" height="40"/> **3DS MAX** (1 an)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="30" height="30"/> **Blender** (2 ans)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/3DS_Max_Logo.png" alt="3DS MAX" width="30" height="30"/> **3DS MAX** (1 an)  
 
 ### 💻 **Développement web**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> **HTML** (2 ans)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/> **CSS** (2 ans)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="30" height="30"/> **HTML** (2 ans)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30" height="30"/> **CSS** (2 ans)  
 
 ### ✨ **Motion Design & Branding**  
 Montage vidéo, identité visuelle et animations interactives.  
