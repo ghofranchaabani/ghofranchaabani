@@ -6,7 +6,8 @@
 📍 **Localisation** : Grenoble, France  
 📧 **Email** : ghofranchaabani19@gmail.com  
 📞 **Téléphone** : 06 78 88 38 40  
-🔗 **Portfolio** : [Behance](https://www.behance.net/chaabanghofran#)  
+🔗 **Portfolio** :[My portfolio](https://ghofranchaabani.github.io/Portfolio/#)  
+[Behance](https://www.behance.net/chaabanghofran#)  
 
 ---
 
