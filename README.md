@@ -89,5 +89,6 @@ Montage vidéo, identité visuelle et animations interactives.
 - ✈️ Voyage  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=ghofranchaabani&color=blue)  
 
 📩 **N’hésitez pas à me contacter pour toute collaboration ou opportunité professionnelle !** 🚀
